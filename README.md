@@ -4,11 +4,11 @@
 
 <h3> Compétences </h3>
 
-[![HTML](./images/html_css.png)]
-[![React](./images/react.png)]
-[![NODEJS](./images/node.png)]
-[![Express](./images/express.png)]
-[![MYSQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0K1-NTvITu0gnWAHfVxVs49-LeFNS8aaFsA&usqp=CAU)]
+![HTML](./images/html_css_2.png)]
+![React](./images/react.png)]
+![NODEJS](./images/node_2.png)]
+![Express](./images/express.png)]
+![MYSQL](./images/mysql_2.png)]
 
 Contactez-moi :
 
