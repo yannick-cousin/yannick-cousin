@@ -6,11 +6,11 @@
 
 ![HTML](./images/html_css_2.png)
 
-![React](./images/react.png)
+![React](./images/react_2.png)
 
 ![NODEJS](./images/node_2.png)
 
-![Express](./images/express.png)
+![Express](./images/express_2.png)
 
 ![MYSQL](./images/mysql_2.png)
 
