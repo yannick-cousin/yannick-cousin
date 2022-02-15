@@ -3,15 +3,14 @@
 📚 Former à la WildCodeSchool comme développeur full-stack.
 
 <h3> Compétences </h3>
-
+<h4> Front-End </h4>
 ![HTML](./images/html_css_2.png)
-
 ![React](./images/react_2.png)
 
+<h4> Back-End </h4>
+
 ![NODEJS](./images/node_2.png)
-
 ![Express](./images/express_2.png)
-
 ![MYSQL](./images/mysql_2.png)
 
 Contactez-moi :
