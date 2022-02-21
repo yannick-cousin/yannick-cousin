@@ -1,6 +1,12 @@
-<h2>👋 Salut, je suis Yannick</h2>
+<h2>👋 Salut, je m'appelle Yannick</h2>
 
 📚 Formé à la WildCodeSchool comme développeur full-stack.
+
+<h3>A propos de moi</h3>
+
+- J'ai 33 ans
+- Je vis en région parisienne
+- Passioné par le hardware et l'aviation
 
 <h3> Compétences </h3>
 <h4> Front-End </h4>
