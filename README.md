@@ -6,7 +6,7 @@
 
 - J'ai 33 ans
 - Je vis en région parisienne
-- Passioné par le hardware et l'aviation
+- Passionné par le hardware et l'aviation
 
 <h3> Compétences </h3>
 <h4> Front-End </h4>
