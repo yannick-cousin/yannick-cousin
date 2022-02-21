@@ -1,6 +1,6 @@
-<h2>👋 Salut, je suis Yannick.</h2>
+<h2>👋 Salut, je suis Yannick</h2>
 
-📚 Former à la WildCodeSchool comme développeur full-stack.
+📚 Formé à la WildCodeSchool comme développeur full-stack.
 
 <h3> Compétences </h3>
 <h4> Front-End </h4>
@@ -13,6 +13,7 @@
 ![NODEJS](./images/node_2.png)
 ![Express](./images/express_2.png)
 ![MYSQL](./images/mysql_2.png)
+![MariaDB](./images/mariadb.png)
 
 Contactez-moi :
 
