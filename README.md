@@ -4,22 +4,17 @@
 
 <h3>A propos de moi</h3>
 
-- J'ai 33 ans
 - Je vis en région parisienne
 - Passionné par le hardware et l'aviation
 
 <h3> Compétences </h3>
 <h4> Front-End </h4>
 
-![HTML](./images/html_css_2.png)
-![React](./images/react_2.png)
+HTML - CSS - React - Angular
 
 <h4> Back-End </h4>
 
-![NODEJS](./images/node_2.png)
-![Express](./images/express_2.png)
-![MYSQL](./images/mysql_2.png)
-![MariaDB](./images/mariadb.png)
+Node JS - Java - Maven - MySQL - MariaDB - OracleDB - Postgresql
 
 Contactez-moi :
 
