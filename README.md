@@ -10,7 +10,7 @@
 <h3> Compétences </h3>
 <h4> Front-End </h4>
 
-HTML - CSS - React - Angular
+React - Angular
 
 <h4> Back-End </h4>
 
